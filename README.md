@@ -13,6 +13,7 @@ A student that completes this project shows that they can:
 This is a basic database scheme with users, user emails, and user roles. This Java Spring REST API application will provide endpoints for clients to read various data sets contained in the application's data. This application will also form the basis of a user authentication application developed elsewhere in the course
 
 ### Database layout
+- [x] Initial commit
 
 The table layout is as follows
 
